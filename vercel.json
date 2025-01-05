@@ -1,6 +1,6 @@
 {
     "builds": [{
-        "src": "./app/api/endpoints.py",
+        "src": "app/api/endpoints.py",
         "use": "@vercel/python",
         "config": { "maxLambdaSize": "15mb" }
     }],
