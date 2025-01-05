@@ -23,8 +23,8 @@ This project is a FastAPI application that performs the following tasks:
 ### Local Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/tharsh95/firmable-ai.git
+   cd firmable-ai
    ```
 2. Install
    ```bash
