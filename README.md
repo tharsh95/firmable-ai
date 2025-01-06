@@ -35,6 +35,10 @@ This project is a FastAPI application that performs the following tasks:
    ```bash
    uvicorn app.main:app --host 0.0.0.0 --port 8000
    ```
+   ## Hosted Link
+   ```bash
+   http://ec2-13-201-76-216.ap-south-1.compute.amazonaws.com/scrape
+   ```
 ## Endpoints
 ### POST /scrape
   - Scrapes a URL and analyzes its content.
